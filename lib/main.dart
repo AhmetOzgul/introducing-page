@@ -56,7 +56,7 @@ class MyApp extends StatelessWidget {
                           size: 40,
                         ),
                         title: Text(
-                          'ahmet_ozgul_@outlook.com',
+                          'royaflex@gmail.com',
                           style: TextStyle(fontSize: 18, color: Colors.white),
                         )),
                   ),
