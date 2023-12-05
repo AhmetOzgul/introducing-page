@@ -1,6 +1,6 @@
-# deneme
+# introducing page
 
-A new Flutter project.
+A new Flutter project to introduce myself.
 
 ## Getting Started
 
